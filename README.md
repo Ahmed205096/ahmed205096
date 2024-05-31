@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Khattab!</h1>
-<h3 align="center">🌟 I'm a self-motivated AI Engineer front-end web developer with an insatiable curiosity for the latest cutting-edge methodologies.</h3>
+<h3 align="center">🌟 I'm a self-motivated AI Engineer and front-end web developer with an insatiable curiosity for the latest cutting-edge methodologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed205096&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed205096" /> </p>
 
