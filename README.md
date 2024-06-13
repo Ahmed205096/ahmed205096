@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmed Khattab!</h1>
 <h3 align="center">🌟 I'm a self-motivated AI Engineer and front-end web developer with an insatiable curiosity for the latest cutting-edge methodologies.</h3>
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=George+Youhana..&hearts;+,;AI+Student;Data+Science,;Active+Learner/Researcher,;Loves+to+learn+new+stuff..<3">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Ahmed+Khattab&hearts;+,;AI+Student;Front end developer,;Active+Learner/Researcher,;Loves+to+learn+new+stuff..<3">
   </a>
 </p>
 
