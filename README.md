@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ahmed Khattab!</h1>
 <h3 align="center">🌟 I'm a self-motivated AI Engineer and front-end web developer with an insatiable curiosity for the latest cutting-edge methodologies.</h3>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=n8a1p1b56kd8cutpjrr0p429h&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+- self-motivated AI Engineer
+- front-end web developer
+- Motivated Artificial Intelligence student
+- 🤓 Always learning new things
+- I’m currently open for an Intern or a new job opportunity
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed205096&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed205096" /> </p>
 
