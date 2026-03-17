@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Khattab!</h1>
-<h3 align="center">🌟 I'm a self-motivated AI Engineer and front-end web developer with an insatiable curiosity for the latest cutting-edge methodologies.</h3>
+<h3 align="center">🌟 I'm a self-motivated AI Engineer and Software Engineer with an insatiable curiosity for the latest cutting-edge methodologies.</h3>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
