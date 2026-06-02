@@ -1,65 +1,174 @@
-<h1 align="center">Hi 👋, I'm Ahmed Khattab!</h1>
-<h3 align="center">🚀 Full-Stack Web Developer | Specializing in Next.js & Modern Web Architectures</h3>
+<h1 align="center">Hi 👋, I'm Ahmed Khattab</h1>
+
+<h3 align="center">
+🚀 Full-Stack Web Developer | Next.js Specialist | Building Product-Ready Web Apps
+</h3>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00F2FE&size=24&center=true&vCenter=true&width=600&height=80&lines=Full-Stack+Web+Developer;Next.js+16+%2F+React+19;TypeScript+Enthusiast;Building+Production-Ready+Apps">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00F2FE&size=24&center=true&vCenter=true&width=700&height=80&lines=Full-Stack+Web+Developer;Next.js+16+%2F+React+19;TypeScript+Enthusiast;MongoDB+%26+Mongoose;Building+Real+Production-Ready+Apps">
   </a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ahmed205096&label=Profile%20Views&color=00F2FE&style=flat-square" alt="Profile views" />
-  <a href="https://www.linkedin.com/in/ahmed-khattab-4a390324a/" target="blank">
+  <a href="https://www.linkedin.com/in/ahmed-khattab-4a390324a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a>
 </p>
 
 ---
 
-### ⚡ About Me
-- 🛠️ **Full-Stack Web Development:** Focused on building complete, product-shaped web applications from database schemas to polished, interactive user interfaces.
-- 🔐 **State & Security Management:** Experienced in implementing role-based routing, secure authentication (Auth.js/JWT), and strict form validations.
-- 📦 **Cloud & Media Handling:** Competent in integrating third-party storage services like Cloudflare R2 and Cloudinary to handle dynamic user media and secure uploads.
+## ⚡ About Me
+
+I'm a Full-Stack Web Developer focused on building complete, product-shaped web applications — not just UI screens or basic CRUD apps.
+
+I specialize in creating modern web platforms using **Next.js, React, TypeScript, MongoDB, authentication systems, role-based access, cloud media storage, dashboards, notifications, and real user flows**.
+
+My projects are built with attention to architecture, product behavior, data integrity, user experience, and production readiness.
 
 ---
 
-### 🛠️ Tech Stack & Ecosystem
+## 🛠️ Tech Stack
 
 <table>
   <tr>
     <td align="left" valign="top" width="25%">
       <strong>Languages</strong><br/><br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="30"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="30"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="30"/>
     </td>
     <td align="left" valign="top" width="25%">
       <strong>Frontend</strong><br/><br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="30" height="30"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="30" height="30"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="30" height="30"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="30" height="30"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="30"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="30"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="30"/>
     </td>
     <td align="left" valign="top" width="25%">
-      <strong>Backend & DB</strong><br/><br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="30" height="30"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="30" height="30"/>
+      <strong>Backend & Database</strong><br/><br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="30"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg" width="30"/>
     </td>
     <td align="left" valign="top" width="25%">
       <strong>Tools & Cloud</strong><br/><br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="30" height="30"/>
-      <img src="https://img.icons8.com/color/48/zod.png" alt="zod" width="30" height="30"/>
-      <img src="https://img.icons8.com/color/48/cloudflare.png" alt="cloudflare-r2" width="30" height="30"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws-sdk" width="30" height="30"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30"/>
+      <img src="https://img.icons8.com/color/48/cloudflare.png" width="30"/>
+      <img src="https://img.icons8.com/color/48/cloudinary.png" width="30"/>
+      <img src="https://img.icons8.com/color/48/zod.png" width="30"/>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 GitHub Analytics
+# 🚀 Featured Projects
+
+## 🎓 EduSphere LMS
+
+**EduSphere** is a complete learning-management platform built with **Next.js, MongoDB, Cloudflare R2, Resend, JWT authentication, and role-aware dashboards**.
+
+This is not a simple course page. It is a full LMS with authentication, email confirmation, course creation, curriculum management, video lessons, quizzes, enrollment tracking, progress management, notifications, search, dashboards, and media uploads.
+
+🔗 **Live Demo:** https://edusphere.ahmed-khattab.online/
+
+### Highlights
+
+- Role-based experience for students, instructors, and admins.
+- JWT authentication with email confirmation and password reset.
+- Instructor course creation with drafts, publishing, modules, lessons, videos, and attachments.
+- Cloudflare R2 integration for thumbnails, lesson videos, files, and profile images.
+- Student enrollment flow with duplicate-enrollment protection.
+- Lesson completion tracking and progress percentage.
+- Quiz creation, submission, scoring, pass/fail status, and solved quiz review.
+- Real instructor dashboard backed by database analytics.
+- MongoDB notification system with live refresh every 30 seconds.
+- Course search API with dedicated results page.
+- Responsive product-style UI with polished dashboards.
+
+### Tech Stack
+
+`Next.js 16` · `React 19` · `TypeScript` · `MongoDB` · `Mongoose` · `JWT` · `jose` · `Zustand` · `Cloudflare R2` · `Resend` · `Tailwind CSS` · `Plyr`
+
+---
+
+## 🏠 PropertyPulse
+
+**PropertyPulse** is a rental property platform that allows users to browse rental listings, search by keyword or location, view property details, authenticate with social providers, bookmark properties, and manage their own listings.
+
+🔗 **Live Demo:** https://khattab-rental-app.vercel.app/
+
+### Project Status
+
+Estimated completion: **80%**
+
+The main product flow is already implemented, including authentication, property listings, search, details pages, profile management, image uploads, bookmarks, and owner-only delete actions. The remaining work is mainly production polish, validation, testing, and UX refinements.
+
+### Highlights
+
+- Built with Next.js App Router, React, TypeScript, and Tailwind CSS.
+- Public home page with hero search, featured properties, recent properties, and loading skeletons.
+- Property listing page connected to API data.
+- Dynamic property details pages.
+- Search by keyword and location.
+- Authentication with NextAuth/Auth.js social providers.
+- Protected routes using Next.js middleware/proxy.
+- MongoDB and Mongoose models for users and properties.
+- Property creation with Zod validation.
+- Cloudinary image uploads with clear upload feedback.
+- Profile page with user data, bookmarks, and owned listings.
+- Bookmark removal and owner-only property deletion.
+- API routes for properties, search, bookmarks, and users.
+
+### Tech Stack
+
+`Next.js 16` · `React` · `TypeScript` · `Tailwind CSS` · `DaisyUI` · `NextAuth/Auth.js` · `MongoDB` · `Mongoose` · `Cloudinary` · `Zod` · `React Dropzone`
+
+---
+
+## ✅ Lumina Tasker
+
+**Lumina Tasker** is a modern team workspace and task management platform built for real collaboration. It combines a polished landing experience with an authenticated productivity app featuring workspaces, Kanban boards, roles, invitations, task assignment, notifications, and activity tracking.
+
+🔗 **Live Demo:** https://lumina.ahmed-khattab.online/
+
+### Highlights
+
+- Premium landing page with animated visuals, pricing, about pages, and demo modal.
+- Real workspace system with workspace switching and scoped task data.
+- Team invitations, pending invites, member directories, and role management.
+- Workspace roles: owner, admin, member, and viewer.
+- Role-aware task actions and access control.
+- Kanban board with persisted task status and ordering.
+- Task assignment, priority, due dates, and validation against invalid dates.
+- In-app notifications and Resend-powered email flows.
+- Workspace activity logs for tracking changes.
+- Profile and settings layer inside a persistent app shell.
+- Modular React architecture with custom hooks like `useWorkspaceRole`, `useDashboardData`, and `useNotifications`.
+
+### Tech Stack
+
+`Next.js 16` · `React 19` · `TypeScript` · `Tailwind CSS 4` · `NextAuth v5` · `MongoDB` · `Mongoose` · `Zustand` · `SortableJS` · `Resend` · `ESLint 9`
+
+---
+
+## 📌 What I Focus On
+
+- Building complete full-stack applications from idea to deployment.
+- Designing practical database models and API flows.
+- Creating role-aware user experiences.
+- Handling authentication, authorization, and protected routes.
+- Integrating cloud media storage and email systems.
+- Turning CRUD apps into real product experiences.
+- Writing clean, modular, scalable frontend architecture.
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -86,5 +195,9 @@
 ---
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Footer Line" width="100%"/>
+  <strong>Building real apps, not just demos.</strong>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </p>
