@@ -96,6 +96,32 @@ This is not a simple course page. It is a full LMS with authentication, email co
 
 ---
 
+## ✅ Lumina Tasker
+
+**Lumina Tasker** is a modern team workspace and task management platform built for real collaboration. It combines a polished landing experience with an authenticated productivity app featuring workspaces, Kanban boards, roles, invitations, task assignment, notifications, and activity tracking.
+
+🔗 **Live Demo:** https://lumina.ahmed-khattab.online/
+
+### Highlights
+
+- Premium landing page with animated visuals, pricing, about pages, and demo modal.
+- Real workspace system with workspace switching and scoped task data.
+- Team invitations, pending invites, member directories, and role management.
+- Workspace roles: owner, admin, member, and viewer.
+- Role-aware task actions and access control.
+- Kanban board with persisted task status and ordering.
+- Task assignment, priority, due dates, and validation against invalid dates.
+- In-app notifications and Resend-powered email flows.
+- Workspace activity logs for tracking changes.
+- Profile and settings layer inside a persistent app shell.
+- Modular React architecture with custom hooks like `useWorkspaceRole`, `useDashboardData`, and `useNotifications`.
+
+### Tech Stack
+
+`Next.js 16` · `React 19` · `TypeScript` · `Tailwind CSS 4` · `NextAuth v5` · `MongoDB` · `Mongoose` · `Zustand` · `SortableJS` · `Resend` · `ESLint 9`
+
+---
+
 ## 🏠 PropertyPulse
 
 **PropertyPulse** is a rental property platform that allows users to browse rental listings, search by keyword or location, view property details, authenticate with social providers, bookmark properties, and manage their own listings.
@@ -127,32 +153,6 @@ The main product flow is already implemented, including authentication, property
 ### Tech Stack
 
 `Next.js 16` · `React` · `TypeScript` · `Tailwind CSS` · `DaisyUI` · `NextAuth/Auth.js` · `MongoDB` · `Mongoose` · `Cloudinary` · `Zod` · `React Dropzone`
-
----
-
-## ✅ Lumina Tasker
-
-**Lumina Tasker** is a modern team workspace and task management platform built for real collaboration. It combines a polished landing experience with an authenticated productivity app featuring workspaces, Kanban boards, roles, invitations, task assignment, notifications, and activity tracking.
-
-🔗 **Live Demo:** https://lumina.ahmed-khattab.online/
-
-### Highlights
-
-- Premium landing page with animated visuals, pricing, about pages, and demo modal.
-- Real workspace system with workspace switching and scoped task data.
-- Team invitations, pending invites, member directories, and role management.
-- Workspace roles: owner, admin, member, and viewer.
-- Role-aware task actions and access control.
-- Kanban board with persisted task status and ordering.
-- Task assignment, priority, due dates, and validation against invalid dates.
-- In-app notifications and Resend-powered email flows.
-- Workspace activity logs for tracking changes.
-- Profile and settings layer inside a persistent app shell.
-- Modular React architecture with custom hooks like `useWorkspaceRole`, `useDashboardData`, and `useNotifications`.
-
-### Tech Stack
-
-`Next.js 16` · `React 19` · `TypeScript` · `Tailwind CSS 4` · `NextAuth v5` · `MongoDB` · `Mongoose` · `Zustand` · `SortableJS` · `Resend` · `ESLint 9`
 
 ---
 
