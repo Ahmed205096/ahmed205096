@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmed Khattab!</h1>
-<h3 align="center">🌟 Software Engineer & Full-Stack Developer</h3>
+<h3 align="center">🚀 Full-Stack Web Developer | Specializing in Next.js & Modern Web Architectures</h3>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00F2FE&size=24&center=true&vCenter=true&width=600&height=80&lines=Software+Engineer+..;Full-Stack+Web+Developer+..;ML+%2F+DL+Researcher+..;Continuous+Learner+..">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00F2FE&size=24&center=true&vCenter=true&width=600&height=80&lines=Full-Stack+Web+Developer;Next.js+16+%2F+React+19;TypeScript+Enthusiast;Building+Production-Ready+Apps">
   </a>
 </p>
 
@@ -16,21 +16,21 @@
 
 ---
 
-### 🚀 About Me
-- 🧠 **Driven By Curiosity:** A self-motivated Software Engineer with an insatiable curiosity for cutting-edge methodologies and system architecture.
-- 🛠️ **Problem Solver:** Specialized in building robust web applications and exploring the depths of Machine Learning.
-- 📚 **Researcher:** Love to dive deep into new tech stacks and software engineering standards.
+### ⚡ About Me
+- 🛠️ **Full-Stack Web Development:** Focused on building complete, product-shaped web applications from database schemas to polished, interactive user interfaces.
+- 🔐 **State & Security Management:** Experienced in implementing role-based routing, secure authentication (Auth.js/JWT), and strict form validations.
+- 📦 **Cloud & Media Handling:** Competent in integrating third-party storage services like Cloudflare R2 and Cloudinary to handle dynamic user media and secure uploads.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Ecosystem
 
 <table>
   <tr>
     <td align="left" valign="top" width="25%">
       <strong>Languages</strong><br/><br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/>
@@ -39,7 +39,7 @@
       <strong>Frontend</strong><br/><br/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="30" height="30"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="30" height="30"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="30" height="30"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="30" height="30"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="30" height="30"/>
     </td>
     <td align="left" valign="top" width="25%">
@@ -48,10 +48,11 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="30" height="30"/>
     </td>
     <td align="left" valign="top" width="25%">
-      <strong>AI & Data Science</strong><br/><br/>
-      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="30" height="30"/>
-      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="30" height="30"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="30" height="30"/>
+      <strong>Tools & Cloud</strong><br/><br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="30" height="30"/>
+      <img src="https://img.icons8.com/color/48/zod.png" alt="zod" width="30" height="30"/>
+      <img src="https://img.icons8.com/color/48/cloudflare.png" alt="cloudflare-r2" width="30" height="30"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws-sdk" width="30" height="30"/>
     </td>
   </tr>
 </table>
