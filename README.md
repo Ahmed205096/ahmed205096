@@ -12,6 +12,11 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ahmed205096&label=Profile%20Views&color=00F2FE&style=flat-square" alt="Profile views" />
+
+  <a href="https://ahmed-khattab.online" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-AhmedOS-00F2FE?style=flat-square&logo=vercel&logoColor=black" alt="Portfolio" />
+  </a>
+
   <a href="https://www.linkedin.com/in/ahmed-khattab-4a390324a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a>
@@ -26,6 +31,8 @@ I'm a Full-Stack Web Developer focused on building complete, product-shaped web 
 I specialize in creating modern web platforms using **Next.js, React, TypeScript, MongoDB, authentication systems, role-based access, cloud media storage, dashboards, notifications, and real user flows**.
 
 My projects are built with attention to architecture, product behavior, data integrity, user experience, and production readiness.
+
+🌐 Explore my interactive portfolio: **[AhmedOS](https://ahmed-khattab.online)**
 
 ---
 
@@ -153,6 +160,19 @@ The main product flow is already implemented, including authentication, property
 ### Tech Stack
 
 `Next.js 16` · `React` · `TypeScript` · `Tailwind CSS` · `DaisyUI` · `NextAuth/Auth.js` · `MongoDB` · `Mongoose` · `Cloudinary` · `Zod` · `React Dropzone`
+
+---
+
+## 🌐 Portfolio
+
+Explore my interactive OS-style portfolio:
+
+**AhmedOS Portfolio**  
+🔗 https://ahmed-khattab.online
+
+AhmedOS is a cinematic portfolio experience with a boot sequence, terminal commands, desktop navigation, project explorer, browser previews, and case studies.
+
+It is not just a portfolio page. It is a custom presentation system designed to show how I think, build, and present full-stack products.
 
 ---
 
